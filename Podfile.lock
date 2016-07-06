@@ -1,0 +1,17 @@
+PODS:
+  - GoogleMaps (1.13.2)
+  - Operations (2.10.1):
+    - Operations/Standard (= 2.10.1)
+  - Operations/Standard (2.10.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - Operations
+
+SPEC CHECKSUMS:
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  Operations: b787ef012ec50752f6247b7f0efb7746fb8934ae
+
+PODFILE CHECKSUM: 5e96c6be691db769ad602d27df362a4a2f87d1d7
+
+COCOAPODS: 1.0.0

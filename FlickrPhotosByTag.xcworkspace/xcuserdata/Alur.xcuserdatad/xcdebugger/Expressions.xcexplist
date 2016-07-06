@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DonwloadPhotoLocationOperation.execute() -&gt; ():DonwloadPhotoLocationOperation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "self.obj!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParsePhotoInfoOperation.execute() -&gt; ():ParsePhotoInfoOperation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FromJsonToDictArrOperation.execute() -&gt; ():FromJsonToDictArrOperation.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[self.key]">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;photos&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "inJson.dict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
